@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @foxyfool
-- 👀 I’m interested in Learning Coding concepts related to any language could be anything that enhances my coding capabilities to next level
-- 🌱 I’m currently Doing My Post Graduation From Manipal Institutr Of Technology in the field of data science and computer applications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram-rahulyaaar
+Hello, I am Rahul Kumar maity
 
-<!---
-foxyfool/foxyfool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+📍 I live in Bhilai, India
+
+I am currently practicing and learning more of Technologies such as ReactJS, NextJS, NodeJS.
+
+I have completed my Master's Degree from Manipal Institute Of Technology in Data Science and Computer Application (2023).
+
+My Tech Stack: React JS, NextJS, TypeScript, TailwindCSS Node JS, Mongo DB, AWS.
+
+Languages I know: JavaScript, TypeScript, C++, Java.
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+My socials are listed below
+
+Facebook at [Rahul Kumar Maity](https://www.facebook.com/rahulkumar.maity/)
+
+LinkedIn at [Rahul Kumar Maity](https://www.linkedin.com/in/rahul-kumar-maity-00a4686b/)
+
+Mail me at rahulkumarmaity9@gmail.com regarding any work or if you just wanna connect
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
