@@ -20,6 +20,5 @@ Facebook at [Rahul Kumar Maity](https://www.facebook.com/rahulkumar.maity/)
 
 LinkedIn at [Rahul Kumar Maity](https://www.linkedin.com/in/rahul-kumar-maity-00a4686b/)
 
-Mail me at rahulkumarmaity9@gmail.com regarding any work or if you just wanna connect
+Mail me at rahulkumarmaity9@gmail.com regarding any work or if you just wanna connect.
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
