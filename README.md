@@ -13,6 +13,7 @@ My Tech Stack: React JS, NextJS, TypeScript, TailwindCSS Node JS, Mongo DB, AWS.
 Languages I know: JavaScript, TypeScript, C++, Java.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
 My socials are listed below
 
 Facebook at [Rahul Kumar Maity](https://www.facebook.com/rahulkumar.maity/)
