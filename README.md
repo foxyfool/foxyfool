@@ -21,8 +21,6 @@ Socials
 
 ## About
 
-📍 India
-
 Masters In Data Science and Computer Application (2023).
 
 Currently practicing and learning more of Technologies by building and Deploying Projects.
