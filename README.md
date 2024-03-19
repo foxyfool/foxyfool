@@ -25,6 +25,6 @@ Masters In Data Science and Computer Application (2023).
 
 Currently practicing and learning more of Technologies by building and Deploying Projects.
 
-Tech Stack: React JS, NextJS, TypeScript, TailwindCSS Node & Express JS,Nest JS, GraphQL Mongo DB & SQL/postgresql , AWS.
+Tech Stack: React JS, NextJS, TypeScript, TailwindCSS Node & Express JS,Nest JS, Mongo DB & SQL/postgresql.
 
 Languages: JavaScript, TypeScript, C++, Java.
