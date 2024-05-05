@@ -23,8 +23,8 @@ Socials
 
 Masters In Data Science and Computer Application (2023).
 
-Currently practicing and learning more of Technologies by building and Deploying Projects.
+Github Usecases : Open Source / Project Deployments / Starter Kits / Assignments / CI/CD Pipelines 
 
-Tech Stack: React JS, NextJS, TypeScript, TailwindCSS Node & Express JS,Nest JS, Mongo DB & SQL/postgresql.
+Tech Stack: React JS Redux & Recoil / Next JS / Node Nest & Express / AWS & CloudFlare / Redis PostgreSQL MongoDB / REST GraphQL / Docker & K8 / CI/CD GitActions.
 
-Languages: JavaScript, TypeScript, C++, Java.
+Languages: C++ & Java / JS / TS.
