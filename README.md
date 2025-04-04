@@ -1,7 +1,5 @@
 <h3 align="center">Hello! Rahul here 👋</h3>
 <h6 align="center">
--- Dev | Moto enthusiast --
-<br/>
 
 ## About
 
